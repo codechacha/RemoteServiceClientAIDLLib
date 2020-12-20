@@ -1,0 +1,4 @@
+include ':aidllib'
+include ':client'
+include ':app'
+rootProject.name = "RemoteService"
